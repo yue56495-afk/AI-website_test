@@ -1,0 +1,29 @@
+{
+  "name": "ai-image-generation-website",
+  "version": "1.0.0",
+  "description": "AI Image Generation Website using Volces API",
+  "main": "next.config.mjs",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yue56495-afk/AI-website_test.git"
+  },
+  "keywords": [
+    "nextjs",
+    "ai",
+    "image-generation",
+    "volces",
+    "typescript",
+    "tailwindcss"
+  ],
+  "author": "yue56495-afk",
+  "license": "MIT"
+}
